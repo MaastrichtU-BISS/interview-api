@@ -2,7 +2,7 @@
 
 ## Running the server
 
-First of all, `git pull` this repository, or download (and unzip) the code from the green 'Code' button. Then open a shell or CMD session and navigate to the folder containing these files.
+First of all, `git clone` this repository, or download (and unzip) the code from the green 'Code' button. Then open a shell or CMD session and navigate to the folder containing these files.
 
 ### Running the server using Docker
 
